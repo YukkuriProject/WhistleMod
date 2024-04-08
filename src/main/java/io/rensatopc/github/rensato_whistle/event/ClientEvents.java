@@ -1,11 +1,9 @@
 package io.rensatopc.github.rensato_whistle.event;
 
-import io.netty.buffer.ByteBuf;
 import io.rensatopc.github.rensato_whistle.client.KeyBinds;
 import io.rensatopc.github.rensato_whistle.main.WhistleMod;
 import io.rensatopc.github.rensato_whistle.network.packet.WhistleC2SPacket;
 import net.minecraft.client.Minecraft;
-import net.minecraft.network.chat.Component;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.Mod;
