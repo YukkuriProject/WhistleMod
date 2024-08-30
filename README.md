@@ -1,6 +1,4 @@
-# WhistleMod (NeoForge)
-
-Forge(Main): https://github.com/UECYukkuriProject/WhistleMod
+# WhistleMod
 
 Fabric(Port): https://github.com/UECYukkuriProject/WhistleModFabric
 
